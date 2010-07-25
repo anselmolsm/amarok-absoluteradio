@@ -5,7 +5,7 @@
 #   streams. URLs shamelessly stolen from Cool-Streams.xml.               #
 #                                                                         #
 #   Copyright                                                             #
-#   (C) 2010, Anselmo Lacerda Silveira de Melo <anselmolsm@gmail.com>
+#   (C) 2010, Anselmo Lacerda Silveira de Melo <anselmolsm@gmail.com>     #
 #   (C) 2007, 2008 Nikolaj Hald Nielsen  <nhnFreespirit@gmail.com>        #
 #   (C)       2008 Peter ZHOU <peterzhoulei@gmail.com>                    #
 #   (C)       2008 Mark Kretschmann <kretschmann@kde.org>                 #
